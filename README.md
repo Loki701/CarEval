@@ -7,7 +7,7 @@ Installation
 To install the system, follow these steps:
 
 Clone the repository:
-git clone https://github.com/your_username/speech-to-text.git
+git clone https://github.com/your_username/Speech-to-Text-Project.git
 cd speech-to-text
 
 Install the dependencies:
