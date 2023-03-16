@@ -8,7 +8,7 @@ To install the system, follow these steps:
 
 1. Clone the repository:
 git clone https://github.com/your_username/Speech-to-Text-Project.git
-  cd speech-to-text
+* cd speech-to-text
 
 2. Install the dependencies:
 pip install -r requirements.txt
