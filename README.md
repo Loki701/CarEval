@@ -7,14 +7,14 @@ Installation
 To install the system, follow these steps:
 
 1. Clone the repository:
-git clone https://github.com/your_username/Speech-to-Text-Project.git
+* git clone https://github.com/your_username/Speech-to-Text-Project.git
 * cd speech-to-text
 
 2. Install the dependencies:
-pip install -r requirements.txt
+* pip install -r requirements.txt
 
 3. Download the pre-trained models:
-The pre-trained models for the ASR and language models can be downloaded from the following links:
+- The pre-trained models for the ASR and language models can be downloaded from the following links:
 
 ASR model: [link to ASR model]
 Language model: [link to language model]
@@ -27,12 +27,12 @@ To use the system, follow these steps:
 The audio data needs to be in the WAV format for the system to work. You can use a tool like 
 
 ffmpeg to convert the audio to WAV format:
-ffmpeg -i audio.mp3 audio.wav
+* ffmpeg -i audio.mp3 audio.wav
 
 2. Transcribe the audio:
 
 To transcribe the audio, run the following command:
-python transcribe.py audio.wav
+* python transcribe.py audio.wav
 
 This will produce a text transcription of the audio.
 
@@ -59,5 +59,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 References
 
-Kaldi ASR toolkit
-GPT language model
+* Kaldi ASR toolkit
+* GPT language model
